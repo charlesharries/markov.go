@@ -4,7 +4,7 @@ An extremely simple Markov generator based on [Jordan Scales's Ruby-based one](h
 
 ## Usage
 
-```sh
+```
 $ go build -o ./markov
 $ ./markov --help
 Usage of ./markov:
